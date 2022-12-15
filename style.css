@@ -559,7 +559,7 @@ color: #767676;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size:8px;
+    font-size:12px;
     line-height: 19px;
     color: #484848;
 
@@ -635,7 +635,7 @@ border-radius: 4px;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
-    font-size: 8px;
+    font-size: 12px;
     line-height: 19px;
     color: #484848;
  
@@ -704,7 +704,7 @@ border-radius: 4px;
  font-family: 'Roboto';
  font-style: normal;
  font-weight: 700;
- font-size: 8px;
+ font-size: 12px;
  line-height: 19px;
  
  /* Secondary/Dark Grey */
@@ -788,7 +788,7 @@ border-radius: 4px;
  font-family: 'Roboto';
  font-style: normal;
  font-weight: 700;
- font-size: 8px;
+ font-size: 12px;
  line-height: 19px;
  
  /* Secondary/Dark Grey */
@@ -852,7 +852,7 @@ border-radius: 4px;
  width: 85px;
  height: 12px;
  left: 816px;
- top: 325px;
+ top: 346px;
  font-family: 'Roboto';
  font-style: normal;
  font-weight: 700;
@@ -871,7 +871,7 @@ border-radius: 4px;
  font-family: 'Roboto';
  font-style: normal;
  font-weight: 700;
- font-size: 8px;
+ font-size: 12px;
  line-height: 19px;
  
  /* Secondary/Dark Grey */
@@ -954,7 +954,7 @@ border-radius: 4px;
  font-family: 'Roboto';
  font-style: normal;
  font-weight: 700;
- font-size: 8px;
+ font-size: 12px;
  line-height: 19px;
  
  /* Secondary/Dark Grey */
@@ -2076,4 +2076,83 @@ top: 106px;
 
 background: url(.jpg), #C4C4C4;
 border-radius: 12px;
+}
+.heading6{
+    position: absolute;
+height: 400px;
+left: 0px;
+right: 81px;
+top: 355px;
+}
+.paralast6{
+    position: absolute;
+left: 0px;
+top: 379px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+color: #484848;
+
+
+}
+
+.heading7{
+    position: absolute;
+height: 400px;
+left: 407px;
+right: 81px;
+top: 355px;
+}
+.paralast7
+{
+    position: absolute;
+left: 407px;
+top: 379px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+color: #484848;
+}
+
+.heading8{
+    position: absolute;
+height: 400px;
+left: 814px;
+right: 81px;
+top: 355px;
+}
+.paralast8{
+    position: absolute;
+left: 814px;
+top: 379px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+color: #484848;
+}
+.logolast1 img{
+   
+top: 215px;
+left: 176px;px;
+
+
+
+
+}
+.logolast2 img{
+    top: 215px;
+left:585px;
+
+}
+.logolast3 img{
+    top: 215px;
+    left:989px;
+    
+
 }
